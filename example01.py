@@ -4,7 +4,7 @@
 # Miles to feet conversion formula
 # Student should enter statement on the next line.
 
-
+print "hello world"
 
 ###################################################
 # Expected output
