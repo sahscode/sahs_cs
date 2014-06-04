@@ -5,6 +5,7 @@
 # Student should enter statement on the next line.
 
 print "hello world"
+print "new line"
 
 ###################################################
 # Expected output
